@@ -1,0 +1,42 @@
+body {
+    background: #F5F5DC;
+    font-family: Aladin;
+  }
+  h1 {
+    text-align: center;
+    font-family: Aladin;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px #aaa;
+   }
+  mark {
+    background-color: #FAFDFD;
+       }
+  
+  h2 {
+    text-align: center;
+    font-family: 'Tangerine', serif;
+    font-size: 15px;
+    }
+  h3 {
+    text-align: center;
+    font-family: Aladin;
+  }
+  h4 {
+    text-align: center;
+    font-family: Aladin;
+  }
+  ul {font-family: Aladin;
+  }
+  
+  img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+    indent: 10px;
+  }
+  p {
+      text-indent: 25px;
+    }
+  iframe {map-align: centre;
+  }
