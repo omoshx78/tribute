@@ -1,6 +1,8 @@
 const express = require('express');
 const path = require('path');
 
+const port = process.env.PORT || 8080;
+
 
 const app = express();
 
@@ -11,4 +13,4 @@ app.get('/', (req, res) => {
 })
 
 
-app.listen(8080, () => console.log('Server running'));
+app.listen(port, () => console.log('Server running'));
